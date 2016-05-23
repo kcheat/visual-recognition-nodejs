@@ -44,7 +44,7 @@ applications:
   $ cf push
   ```
 
-See the full [API Reference][http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/visual-recognition/api/v3/] documentation for more details, including code snippets and references.
+See the full [API Reference](http://www.ibm.com/smarterplanet/us/en/ibmwatson/developercloud/visual-recognition/api/v3/) documentation for more details, including code snippets and references.
 
 ## Running locally
   The application uses [Node.js](http://nodejs.org) and [npm](https://www.npmjs.com) so you will have to download and install them as part of the steps below.
